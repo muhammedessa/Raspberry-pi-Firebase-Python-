@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "raspberrypi-84de0",
-  "private_key_id": "5f728203c39e09e614fd1c873e179",
-  "private_key": "-----BEGIN PRIVATE KEY-----\n vEW6ZO\nRwIwg1v7hTpmm7GjIrjTlObTpP/lpcigHWBgue/1A4BI0tpkcpz1kHjcV8EqLSB4G6pvCPUyr/kyxToES0Fd45wq80M43i+Ixmhd\nS/xSVRzH+jEgMtBJBm8I0Fe1fH621+teFl5nG+fYVQKBgQDiUPpAvdpGt+kMu4/s\nG90G5mTGhpJ3VU3iYCN3qY/EUMbCo/MlTYnSKx/n5yWUeUVpLVQ4zdHF19TP5FYX\ntVeCulFcdW0Oiu3s5MXXAGvZX2dVx/93sCYAVVjv24jeg5cHppkCqU733XxsiFyY\nANAdjji0cdox+VZkG4OWU7TXXwKBgQDiF0Tyi006L5EPJncP5hge3hpJE4gbgeLW\nRLdO2BLTcGqXqYhgNNH/y9BAoZLhgjdA7XMncQmQQonkc1HUrdp/CLld5ip7bF6D\nKcgAiPAiu+x07bALJg5LW4IWbMR5+mdrHxqaiqFL1h8pR5OVzA+V+O9Fvk4A4z0Q\nCT4xwJC6iwKBgAnHlgjWK2iC6f8y27VIPvTdX910Uz/037i4js/M8/l3xB8FFqy1\n/Q6n7mkHBAi2dNlmrA0IV9hEy11wcIf1viJYCswEBwJp3n4uJJ511jM+fCioy9FQ\nO1QoW/+BbRiwdwZNnK8QwejUGVxXSCkJX/TnAGxLvzIJpEIPLlCArX/hAoGAImJl\nkvmKijHXvtUbwGg+/NrMZpa42W4cgHe85RnJayyqmVwoKHGACoYFqv6npvI10wMJ\nw1LWoIDuFbdQF6dFFpLOFjC9/z1Q9mOxThuFYdLwuCu53UgxXlaRZzWtf9uMROdb\nFWvF8hGjdZS0JlD9gdJ1GUdC97GXhMvTEJ/3otcCgYB8BALdxg5rR6qkxo/ZBeED\n91+qFpdCQ+IQvD7HmOcpGeMYD1Imv+T370NaClIc5hlkVGFnkWAllzsNXx5H22Li\nKr3GZE2q7w5GfX8CA/lvnLy9euMMOs/AL9E0gJSsF9z1aFfqDOMy8tGgfW/NaxO7\nsKVNAbf1HviiIkMIVapm9w==\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-zrdmb@raspberrypi-84de0.iam.gserviceaccount.com",
-  "client_id": "110215414637546",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adm.iam.gserviceaccount.com"
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
 }
